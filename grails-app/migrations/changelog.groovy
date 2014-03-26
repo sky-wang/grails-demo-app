@@ -112,4 +112,6 @@ databaseChangeLog = {
 
     include file: 'add-date-created-to-person.groovy'
 
+
+	include file: 'add-asanas.groovy'
 }

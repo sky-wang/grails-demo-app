@@ -1,0 +1,6 @@
+
+load "asanas"
+
+fixture {
+
+}
