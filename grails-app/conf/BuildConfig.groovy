@@ -69,6 +69,7 @@ grails.project.dependency.resolution = {
         compile ':spring-security-core:2.0-RC2'
         runtime ":database-migration:1.3.8"
         compile ":fixtures:1.2"
+        compile ':quartz:1.0.1'
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0.1"
         //runtime ":cached-resources:1.1"
